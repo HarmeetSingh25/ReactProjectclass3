@@ -2,7 +2,7 @@ import React from 'react'
 
 const Counter = () => {
   return (
-    <div className=' flex flex-col gap-4 p-5 bg-white w-1/2 h-100 rounded-md'>
+    <div className=' flex flex-col gap-4 p-5  bg-white w-1/2 h-80 rounded-xl'>
       <h1 className='text-xl font-bold'>Counter Card</h1>
       <h1 className='text-3xl'>0</h1>
       <div className=' flex gap-1'>
